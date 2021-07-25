@@ -1,1 +1,3 @@
 THis is the first line on the Git Tutorial
+
+This line is added in the second checkpoint (commit)
